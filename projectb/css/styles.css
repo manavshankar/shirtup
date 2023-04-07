@@ -1,0 +1,40 @@
+
+.div1{
+    height:600px;
+    background-color: #A9907E;
+}
+
+.div2{
+    height: 600px;
+    text-align: center;
+    background-color: #F1DEC9;
+}
+
+.navbar-dark{
+    background-color: #A9907E;
+}
+
+.pic{
+    width: 100%;
+}
+
+.tag{
+    text-align: center;
+    font-size: 360%;
+    position: absolute;
+    top: 170%;
+    left: 1%;
+    color: white;
+    font-family: 'Labrada', serif;
+}
+
+.nav-link{
+    color: #F1DEC9;
+    margin: 20px;
+}
+
+.navbar-brand{
+    margin: 30px;
+    font-family: 'Lobster',cursive;
+    display: block;
+}
